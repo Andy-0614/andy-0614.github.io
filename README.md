@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,vue,vite,ts,flutter,nodejs," />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,vue,ts,flutter" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,discord,github,raspberrypi,unity,vscode,androidstudio,codepen,docker"/>
+    <img src="https://skillicons.dev/icons?i=cloudflare,discord,github,vscode"/>
   </a>
 </p>
   
