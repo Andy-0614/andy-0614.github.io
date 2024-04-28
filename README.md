@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,vue,ts,flutter" />
+    <img src="https://skillicons.dev/icons?i=cpp,flutter" />
   </a>
 </p>
 
