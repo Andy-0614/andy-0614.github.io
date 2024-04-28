@@ -1,4 +1,4 @@
-[![自介](https://example.com/image.jpg)](https://lit.link/en/an0614an)
+[![自介](/image/head.jpg)](https://lit.link/en/an0614an)
 
 <h1 align="center"></h1>
 <a href="https://skillicons.dev">
